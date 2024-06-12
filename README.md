@@ -2,6 +2,9 @@
 
 A simple todo-list created using **Expo/React Native**. 
 
+![tododot-example](https://github.com/YuriLopesM/todo.dot/assets/75103144/f16ae3fb-946d-42f1-8e9a-4eca304d262d)
+
+
 ## Implemented
 
 This is a Mobile Solutions exercise for college. Checklist of things needed:
