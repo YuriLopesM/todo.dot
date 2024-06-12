@@ -1,5 +1,5 @@
 import { DeleteTaskButton } from "@/components";
-import { TaskDatabase, useTaskDatabase } from "@/database/useTaskDatabase";
+import { TaskDatabase, useTaskDatabase } from "@/database";
 import { Text, View, ViewProps } from "react-native";
 import { Swipeable, TapGestureHandler } from 'react-native-gesture-handler';
 
