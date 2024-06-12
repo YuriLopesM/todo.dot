@@ -6,8 +6,8 @@ export const AddTaskFAB = ({ ...rest }: TouchableOpacityProps ) => {
     <TouchableOpacity 
       style={{
         position: 'absolute',
-        bottom: 20,
-        right: 20,
+        bottom: 0,
+        right: 0,
         backgroundColor: '#6200ea',
         width: 56,
         height: 56,
